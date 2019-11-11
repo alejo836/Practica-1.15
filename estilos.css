@@ -14,6 +14,10 @@ section.contacto {
 h1 {
     text-align: center;
 }
+h4{
+    text-align: center;
+    color: black;
+}
 p {
     color: brown;
 }
@@ -25,4 +29,19 @@ li.negro{
 }
 li {
     color: rgba(241, 151, 15, 0.726);
+}
+table{
+    border: black 1px solid;
+}
+td{
+    border: black 1px solid; 
+}
+td.centro{
+    text-align: center;
+}
+col.fondo {
+    background-color: rgb(241, 202, 150);
+}
+tr.diferente {
+    background-color: rgb(253, 233, 196);
 }
